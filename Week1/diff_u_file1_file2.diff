@@ -1,0 +1,7 @@
+--- file1.py	2021-04-28 18:51:16.238283744 +0530
++++ file2.py	2021-04-28 18:53:06.489711185 +0530
+@@ -5,3 +5,4 @@
+ print("diff file1.py file2.py .This command will print out the changes between the two files")
+ print("The above lines existed earlier")
+ print("=================================")
++print("I am adding this new line in file2.py.Rest of the line above remain the same as in file1.py")

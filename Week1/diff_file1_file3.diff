@@ -1,0 +1,6 @@
+5c5
+< print("diff file1.py file2.py .This command will print out the changes between the two files")
+---
+> #print("diff file1.py file2.py .This command will print out the changes between the two files")
+7a8
+> print("In file3 I added this line and commented a line from above")
